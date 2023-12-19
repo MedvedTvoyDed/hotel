@@ -48,7 +48,9 @@
 
   •	Конфигурации локального сервера 
 
-  •	Поддерживаемая операционная система: Windows, Mac и Linux. Готовый пакет: WampServer (для Windows), Xampp (для Windows и Mac) или EasyPHP (для Windows).
+  •	Поддерживаемая операционная система: Windows, Mac и Linux. 
+  
+  • Готовый пакет: WampServer (для Windows), Xampp (для Windows и Mac) или EasyPHP (для Windows).
 
 
 
